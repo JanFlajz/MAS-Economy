@@ -1,1 +1,2 @@
 # MAS-Economy
+Diplomka
